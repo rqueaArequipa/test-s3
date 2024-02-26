@@ -1,0 +1,41 @@
+{
+    "window.zoomLevel": 1,
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "workbench.sideBar.location": "right",
+    "workbench.editor.showTabs": "none",
+    "workbench.colorTheme": "One Dark Pro Mix",
+    "workbench.colorCustomizations": {
+      "editor.foreground": "#d4d4d49f"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.minimap.enabled": false,
+    "files.autoSave": "afterDelay",
+    "editor.scrollbar.vertical": "hidden",
+    "editor.overviewRulerBorder": false,
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.formatOnSave": true,
+    "editor.guides.indentation": false,
+    "indenticator.width": 0.1,
+    "indenticator.color.dark": "rgba(255,255,255, 0.1)",
+    "editor.matchBrackets": "never",
+    "breadcrumbs.enabled": false,
+    "editor.glyphMargin": false,
+    "workbench.statusBar.visible": false,
+    "workbench.activityBar.location": "hidden",
+    "workbench.editor.enablePreview": true,
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[scss]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+  }
