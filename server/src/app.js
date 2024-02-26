@@ -8,7 +8,7 @@ import photosRoutes from "./routes/photos.routes.js";
 const app = express();
 app.use(
   cors({
-    origin: "https://bd3d561v-5173.brs.devtunnels.ms",
+    origin: "http://localhost:5173",
   })
 );
 
