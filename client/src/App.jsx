@@ -13,7 +13,7 @@ function App() {
     const formData = new FormData();
     formData.append("photo", post.photo);
     const response = await axios.post(
-      "http://localhost:3000/upload",
+      "https://bd3d561v-3000.brs.devtunnels.ms/upload",
       formData,
       {
         headers: {
